@@ -8,6 +8,8 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOL
 """
 #modifed by Prof. Kim 2024. 03. 22
 
+#Ms.Gwak Arigato
+
 import os
 import glob
 import pandas as pd
